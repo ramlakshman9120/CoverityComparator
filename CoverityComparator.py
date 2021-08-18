@@ -33,7 +33,7 @@ def display_comparator_reports(cid_list_old,cid_list_new):
     return
     
 
-st.title('COVERITY-COMPARATOR BY SRIRAM')
+st.title('COVERITY-COMPARATOR WBTS OAM')
 
 st.markdown("""
 This Application compares two Coverity reports and generates:
